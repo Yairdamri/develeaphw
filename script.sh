@@ -1,3 +1,6 @@
+#!/bin/bash
+
+# Create a directory structure for a tech project
 mkdir techstart
 mkdir techstart/project
 mkdir techstart/project/teams
