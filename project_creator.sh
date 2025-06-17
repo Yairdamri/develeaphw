@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Create a project directory structure with a README file
 if mkdir project_na && \
    mkdir project_na/me && \
    mkdir project_na/src && \
